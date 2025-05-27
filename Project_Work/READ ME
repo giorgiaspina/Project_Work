@@ -1,0 +1,7 @@
+- Flask (web framework)
+- PyMySQL (connettore database MySQL)
+- Cerberus (validazione dati in entrata)
+- Pandas ( creazione e gestione di dataframe )
+- Matplotlib  ( creazione di grafici di base )
+- Scipy ( calcoli scientifici e statistici )
+- Scikit-learn ( operazioni di preprocessing e modelli ML ) 
